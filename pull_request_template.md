@@ -9,4 +9,4 @@ Getting back into the workflow of a deadline. I kept getting stressed about how 
 ### Please tag the instructor you were assigned to for this
 
 ### Please paste you deployed GitHub pages link below
-Can't get this to work.
+https://owenhallgren.github.io/will-andy-pick-me/

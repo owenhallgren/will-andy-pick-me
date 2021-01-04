@@ -10,3 +10,57 @@ light blue background: #E6ECF4;
 clear button: #DE4841;
 clear button disabled: #D0CDCD
 */
+.top-text{
+  display:flex;
+  justify-content: center;
+  font-family:'Life Savers', serif;
+  font-size: 40px;
+  color:#607AA0;
+}
+.body-content{
+  display: flex;
+  justify-content: center;
+}
+.main-content{
+  height: 350px;
+  width: 400px;
+  background-color:#E6ECF4;
+  display: flex;
+  flex-direction: column;
+  font: #2B4E80;
+
+}
+.question-box{
+height: 35px;
+width: 375px;
+margin-bottom: 5px;
+margin-left: 10px;
+text-align: center;
+}
+.ask-question-button{
+  height: 35px;
+  width: 383px;
+  margin-left: 10px;
+  background-color: #607AA0;
+  border: none;
+  color: #FFFFFF;
+
+}
+.eight-ball{
+  height: 150px;
+  width: 150px;
+  margin-left: 120px;
+  margin-top: 50px;
+  display: block;
+
+}
+.answer-to-question{
+font-size: 35px;
+margin-top: 80px;
+justify-content: center;
+margin-left: 80px;
+}
+.woody-picture{
+  height: 350px;
+  margin-left: 30px;
+}
